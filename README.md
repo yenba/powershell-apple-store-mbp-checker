@@ -4,16 +4,16 @@ This is a Powershell script that checks to see if a specific model of Macbook Pr
 
 ## Prerequisites
 
-- Apple Store Number (`store`)
+- **Apple Store Number (`store`)**
     - Find the store number of your local Apple Store using this table.
     [https://github.com/worthbak/apple-store-inventory-checker/blob/main/apple-store-numbers.md](https://github.com/worthbak/apple-store-inventory-checker/blob/main/apple-store-numbers.md)
-- Macbook Pro Model Number (`model`)
+- **Macbook Pro Model Number (`model`)**
     - Find the model number of the Macbook Pro you are searching for. You can find a list of model numbers here. [https://everymac.com/systems/apple/macbook_pro/index-macbookpro.html](https://everymac.com/systems/apple/macbook_pro/index-macbookpro.html)
-- Pushover Account
+- **Pushover Account**
     - Notifications are achieved by utilizing [Pushover](https://pushover.net/). You will need to create a Pushover account to properly run this script.
-- Pushover API User Key (`pushover_user`)
+- **Pushover API User Key (`pushover_user`)**
     - Documentation is here - [https://pushover.net/api](https://pushover.net/api)
-- Pushover API Token (`pushover_token`)
+- **Pushover API Token (`pushover_token`)**
     - Documentation is here - [https://pushover.net/api](https://pushover.net/api)
 
 ## Docker Hub Repo
